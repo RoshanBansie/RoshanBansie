@@ -1,4 +1,4 @@
-#  Hey, my name is Roshan
+#  Roshan Bansie
 I'm a BSc Informatica student at the University of Amsterdam.
 My passion is to create modern-looking full-stack webapplications that solve daily problems or to make the workflow of businesses more efficient.
 
