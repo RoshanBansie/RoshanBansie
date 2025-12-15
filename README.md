@@ -4,7 +4,7 @@ My passion is to create modern-looking full-stack webapplications that solve dai
 
 🔭 I’m currently working on a public **React component library**\
 🌱 I’m currently learning about **Next.js**\
-💬 I hope to learn more about **Docker** and **Prisma** in the future\
+💬 I hope to learn more about **Docker** and **Prisma** in the future
 ## Techstack
 I'm specialized in the following technologies:
 - React.js
