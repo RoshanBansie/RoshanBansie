@@ -1,16 +1,26 @@
-## Hi there 👋
+#  Hey, my name is Roshan
+I'm a BSc Informatica student at the University of Amsterdam.
+My passion is to create modern-looking full-stack webapplications that solve daily problems or to make the workflow of businesses more efficient.
 
-<!--
-**RoshanBansie/RoshanBansie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a public **React component library**
+- 🌱 I’m currently learning about **Next.js**
+- 💬 I hope to learn more about **Docker** and **Prisma** in the future
 
-Here are some ideas to get you started:
+## Techstack
+I'm specialized in the following technologies:
+- React.js
+- Typescript
+- Next.js
+- Express.js
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I have created the following projects:
+- **Notify**
+  - _Webapplication that lets you upload all your warranties so you can never lose them_
+  - </>
+  - 🌐
+ 
+## Contact
+For further questions or oppertunities you can reach out to me via the following links:
+- https://www.linkedin.com/in/roshan-bansie-94a825301
