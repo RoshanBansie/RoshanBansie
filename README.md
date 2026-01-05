@@ -11,12 +11,14 @@ I'm specialized in the following technologies:
 - Typescript
 - Next.js
 - Express.js
+- Node.js
 - SQL
 
 ## Projects
 I have created the following projects:
 - **Notify**\
-  _Webapplication that lets you upload all your warranties so you can never lose them_
+  _Webapplication that lets you upload, store and view all your warranties so you can never lose them_\
+  https://notify.roshanbansie.nl/
  
 ## Contact
 For further questions or oppertunities you can reach out to me via the following links:
