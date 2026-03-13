@@ -23,5 +23,5 @@ I have created the following projects:
  
 ## Contact
 For further questions or oppertunities you can reach out to me via the following links:
-- [Portfolio website]https://roshanbansie.nl
+- [Portfolio website](https://roshanbansie.nl)
 - [LinkedIn](https://www.linkedin.com/in/roshan-bansie-94a825301)
